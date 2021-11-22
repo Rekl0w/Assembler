@@ -1,0 +1,3 @@
+VEYA AX,BX
+VE AX,DX
+DEG AX
